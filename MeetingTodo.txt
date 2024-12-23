@@ -19,7 +19,14 @@ GAMEPLAY MECHANICS:
 - Vehicle Management:
   [ ] Add system for abandoned vehicles to automatically respawn at base
   [ ] Implement team restrictions to prevent driving enemy vehicles
-  [ ] Add horn functionality to vehicles:
+  [ ] Add horn functionality to vehicles
+
+VOIP FIXES:
+- Vehicle VOIP:
+  [ ] Fix local voice broadcasting to all players when in vehicles
+- UI Integration:
+  [ ] Fix VOIP not working when map is open
+  [ ] Fix VOIP not working in other UI screens
 
 FOB SYSTEM IMPROVEMENTS:
 - Spawn Point Validation:
