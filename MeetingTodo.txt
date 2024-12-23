@@ -14,6 +14,8 @@ GAMEPLAY MECHANICS:
 - Player Map Icons:
   [ ] Fix: Player icons should not show on map when in vehicles
   [ ] Create new map icons for wounded players (maintain consistency with existing icons)
+  [ ] Update vehicle icons to reflect squad occupancy:
+      [ ] Change vehicle icon color when squad members are inside
 - Spawn Protection:
   [ ] Implement spawn protection system for players at base
 - Vehicle Management:
