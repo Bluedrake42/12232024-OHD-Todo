@@ -19,6 +19,7 @@ GAMEPLAY MECHANICS:
 - Vehicle Management:
   [ ] Add system for abandoned vehicles to automatically respawn at base
   [ ] Implement team restrictions to prevent driving enemy vehicles
+  [ ] Add horn functionality to vehicles:
 
 FOB SYSTEM IMPROVEMENTS:
 - Spawn Point Validation:
