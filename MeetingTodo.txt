@@ -1,11 +1,22 @@
-- Update Monte Cassino with bases and one logi + two jeeps for each side
-- Argonne will be converted to Skirmish only
-- Expand BLUFOR base for Lam Dong and add one logi + two jeeps for each side
+MAP UPDATES:
+- Update Monte Cassino:
+  [ ] Add bases
+  [ ] Add one logistics vehicle per side
+  [ ] Add two jeeps per side
+- Argonne:
+  [ ] Convert to Skirmish only
+- Lam Dong:
+  [ ] Expand BLUFOR base
+  [ ] Add one logistics vehicle per side
+  [ ] Add two jeeps per side
 
-This tree in meuse argonne is missing texture: https://media.discordapp.net/attachments/412764609557168129/1320871465716944926/image.png?ex=676b2cea&is=6769db6a&hm=10474e7301f70d81e6a1c6d76e690dea8523054247d7fe22ae9016493c0596ea&=&format=webp&quality=lossless&width=1193&height=671
+GAMEPLAY MECHANICS:
+- Player Map Icons:
+  [ ] Fix: Player icons should not show on map when in vehicles
+  [ ] Create new map icons for wounded players (maintain consistency with existing icons)
 
-Player icons currently show on the map even if they are in a vehicle. They should not show if they are in a vehicle.
-
-We need to create new map icons for wounded players that are consistent with the other map icons.
-
-Sometimes it is not possible to spawn on a FOB if it is deployed in a way where something is blocking the spawn point. We should ensure that FOBs cannot be placed if the spawn point is blocked, and if something (like a vehicle) is blocking the spawn point, there should be some kind of indicator to players why the FOB cannot be spawned on... or at least perhaps they can be spawned in a way that is outside of the blocked area.
+FOB SYSTEM IMPROVEMENTS:
+- Spawn Point Validation:
+  [ ] Prevent FOB placement if spawn point would be blocked
+  [ ] Add visual indicator when spawn point is blocked by vehicles/objects
+  [ ] Consider implementing alternative spawn locations outside blocked areas

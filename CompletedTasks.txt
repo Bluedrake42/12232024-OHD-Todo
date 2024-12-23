@@ -1,0 +1,7 @@
+COMPLETED TASKS
+=============
+Last Updated: December 23, 2024
+
+MAP UPDATES:
+- Argonne:
+  [x] Fixed missing tree texture (Reference: https://media.discordapp.net/attachments/412764609557168129/1320871465716944926/image.png)
