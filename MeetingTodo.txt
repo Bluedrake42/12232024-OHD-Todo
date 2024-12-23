@@ -18,6 +18,7 @@ GAMEPLAY MECHANICS:
   [ ] Implement spawn protection system for players at base
 - Vehicle Management:
   [ ] Add system for abandoned vehicles to automatically respawn at base
+  [ ] Implement team restrictions to prevent driving enemy vehicles
 
 FOB SYSTEM IMPROVEMENTS:
 - Spawn Point Validation:
