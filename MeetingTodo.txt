@@ -20,6 +20,10 @@ GAMEPLAY MECHANICS:
   [ ] Add system for abandoned vehicles to automatically respawn at base
   [ ] Implement team restrictions to prevent driving enemy vehicles
   [ ] Add horn functionality to vehicles
+- Team Switching:
+  [ ] Fix team-switching while in vehicle:
+      [ ] Ensure player is killed when switching teams in vehicle
+      [ ] Reset player state properly after team switch
 
 VOIP FIXES:
 - Vehicle VOIP:
